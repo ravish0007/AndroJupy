@@ -62,7 +62,7 @@ You will be in jupyter home directory.
 * [AppLink_Github](https://github.com/qpython-android/notebook/releases)
 * Open <b> QpythonNotebook </b> for initial setup, it switches to <b> Qpython</b> app where you need to enable notebook service and to download few resource.<br>
 * Close <b>Qpython</b> and <b> QpythonNotebook </b>, Open <b>Termux</b>.<br>
-* Change directory to '<i>/sdcard/qpython/notebook</i>' by executing <b> cd /sdcard/qpython/notebook</b>, try <b> exit </b> because of <b>termux-chroot</b>.
+* Change directory to '<i>/sdcard/qpython/notebook</i>' by executing <b> cd /sdcard/qpython/notebook</b>, try <b> exit </b> because of <b>termux-chroot</b>, you need to play with this if <b>QpythonNotebook</b> doesnot work, just create necessary  folders by looking at http requests in <b>Termux</b>.
 * Execute <b>jupyter notebook --NotebookApp.token=qpythonotebook --port 13000 </b>
 * Open <b> QpythonNotebook</b>, play around with shortcut buttons, Install [hackers_keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard) which gives good feeling in <i> landscape </i> mode.
 
