@@ -87,8 +87,10 @@ You will be in jupyter home directory.
 <b>Please be patient during the process.</b>
 
 <br>
-[Image_1](https://github.com/ravish0007/AndroJupy/blob/master/Image_1.png?raw=true)
-[Image_2](https://github.com/ravish0007/AndroJupy/blob/master/Image_2.png?raw=true)
+
+![Image_1](https://github.com/ravish0007/AndroJupy/blob/master/Image_1.png)
+
+![Image_2](https://github.com/ravish0007/AndroJupy/blob/master/Image_2.png)
 
 
 
