@@ -85,14 +85,16 @@ You will be in jupyter home directory.
   * <b>Step 5 :</b> Install matplotlib from pypi,<b> <i> pip install matplotlib </i></b> <br>
 <br>  
 <b>Please be patient during the process.</b>
-
+<br>
 <br>
 
-![Image_1](https://github.com/ravish0007/AndroJupy/blob/master/Image_1.png)
+<img src="https://github.com/ravish0007/AndroJupy/blob/master/Image_1.png" width="360" height="640">
 
-![Image_2](https://github.com/ravish0007/AndroJupy/blob/master/Image_2.png)
+<img src="https://github.com/ravish0007/AndroJupy/blob/master/Image_2.png" width="360" height="640">
 
-
+<br>
+<br>
+Share your experience and for further more write to me @ <email> 4al16cs077@aiet.org.in </email>
 
   
   
