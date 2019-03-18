@@ -94,7 +94,12 @@ You will be in jupyter home directory.
 
 <br>
 <br>
-Thanks to @Qpython @Ipython communities and @ThePSF
+
+P.S :- thanks @Ipython community and @ThePSF, Special thanks to  @Qpython community for heads up. 
+
+<br><br>
+
+
 Share your experience and for further more write to me @ <email>4al16cs077@aiet.org.in</email>
 
   
